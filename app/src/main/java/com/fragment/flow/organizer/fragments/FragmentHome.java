@@ -13,7 +13,7 @@ import com.fragment.flow.organizer.R;
 import com.fragment.flow.organizer.databinding.FragmentHomeBinding;
 
 /**
- *  Created by Shruti Kumari
+ *  Created by Shruti Kumari.
  */
 public class FragmentHome extends Fragment implements View.OnClickListener {
 
